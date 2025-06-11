@@ -1,3 +1,9 @@
+---
+layout: pageAdd commentMore actions
+title: About
+permalink: /about/
+---
+
 # About Us
 
 We are the Ballard High School Computer Science Club! We meet every Tuesday and Friday during lunch in the BHS computer lab (N112).
