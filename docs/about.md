@@ -1,6 +1,6 @@
 ---
-layout: pageAdd commentMore actions
-title: About
+layout: page
+title: About Us
 permalink: /about/
 ---
 
