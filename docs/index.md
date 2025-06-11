@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Ballard CS Club
+placeholder text
+<button name="join-button" onclick="https://example.org/">Join Us</button>
